@@ -4,7 +4,7 @@
   "description": "WebSocket Server for notifications",
   "main": "SocketNotif.js",
   "scripts": {
-    "start": "node SocketNotif.js"
+    "start": "node SoketNotif.js"
   },
   "dependencies": {
     "ws": "^8.7.0",
