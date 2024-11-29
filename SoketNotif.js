@@ -3,7 +3,7 @@ const mysql = require('mysql');
 
 // Konfigurasi database MySQL (sesuaikan dengan detail database cloud atau database Anda)
 const db = mysql.createConnection({
-  host: '192.168.1.15',  // Ganti dengan host database yang sesuai, misalnya URL dari layanan MySQL cloud
+  host: 'localhost',  // Ganti dengan host database yang sesuai, misalnya URL dari layanan MySQL cloud
   user: 'root',       // Ganti dengan username database
   password: '',       // Ganti dengan password database
   database: 'nganjukkk' // Ganti dengan nama database Anda
