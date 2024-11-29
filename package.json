@@ -2,7 +2,7 @@
   "name": "websocket-server",
   "version": "1.0.0",
   "description": "WebSocket Server for notifications",
-  "main": "SocketNotif.js",
+  "main": "SoketNotif.js",
   "scripts": {
     "start": "node SoketNotif.js"
   },
